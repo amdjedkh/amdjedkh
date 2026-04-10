@@ -123,78 +123,28 @@ motto: "Decode complexity. Engineer intelligence."
 <!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<!-- SKILL BARS -->
+<!-- SKILL SPEEDOMETERS -->
 ## 🎯 &nbsp;Skill Proficiency
-
-<div align="center">
-
-```text
-Artificial Intelligence   ████████████████████░░   90%
-Algorithms & Problem Solving ████████████████████░░   90%
-Machine Learning           █████████████████░░░░░   85%
-Research & Writing         █████████████████░░░░░   85%
-Python                     █████████████████░░░░░   85%
-Data Science               ████████████████░░░░░░   80%
-```
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amdjedkh&theme=transparent&title_color=00d4ff&text_color=e6f1ff&icon_color=64ffda&border_color=1e3a5f&bg_color=0a192f&hide_border=false&layout=compact&custom_title=⏱️%20Weekly%20Coding%20Activity" width="60%" />
-
-</div>
-
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- CURRENTLY -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;What I'm Up To
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center">
-
-**🔭 Currently Working On**
-
-![AI Research](https://img.shields.io/badge/🧪_AI_Research-Intelligent_Systems-00d4ff?style=flat-square&labelColor=0a192f)
-<br/>
-![Thesis](https://img.shields.io/badge/📝_Thesis-Master's_Dissertation-64ffda?style=flat-square&labelColor=0a192f)
-
-</td>
-<td width="50%" align="center">
-
-**📚 Currently Learning**
-
-![Reinforcement Learning](https://img.shields.io/badge/🤖_RL-Reinforcement_Learning-00d4ff?style=flat-square&labelColor=0a192f)
-<br/>
-![Transformers](https://img.shields.io/badge/🧠_NLP-Transformer_Architectures-64ffda?style=flat-square&labelColor=0a192f)
-
-</td>
+<td align="center"><img src="./gauges/gauge_1.svg" alt="AI" /></td>
+<td align="center"><img src="./gauges/gauge_2.svg" alt="Algorithms" /></td>
+<td align="center"><img src="./gauges/gauge_3.svg" alt="ML" /></td>
 </tr>
 <tr>
-<td width="50%" align="center">
-
-**📖 Currently Reading**
-
-![Book](https://img.shields.io/badge/📘_Book-Deep_Learning_(Goodfellow)-1e90ff?style=flat-square&labelColor=0a192f)
-<br/>
-![Papers](https://img.shields.io/badge/📄_Papers-Attention_Is_All_You_Need-1e90ff?style=flat-square&labelColor=0a192f)
-
-</td>
-<td width="50%" align="center">
-
-**🎯 Goals for 2026**
-
-![Publish](https://img.shields.io/badge/🏆_Goal-Publish_a_Research_Paper-00d4ff?style=flat-square&labelColor=0a192f)
-<br/>
-![Open Source](https://img.shields.io/badge/🌟_Goal-Contribute_to_Open_Source-64ffda?style=flat-square&labelColor=0a192f)
-
-</td>
+<td align="center"><img src="./gauges/gauge_4.svg" alt="Research" /></td>
+<td align="center"><img src="./gauges/gauge_5.svg" alt="Python" /></td>
+<td align="center"><img src="./gauges/gauge_6.svg" alt="Data Science" /></td>
 </tr>
 </table>
 
 </div>
+
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 <!-- RANDOM DEV QUOTE -->
 <div align="center">
@@ -243,31 +193,6 @@ Data Science               ████████████████░�
 </div>
 
 <br/>
-
-<!-- 3D CONTRIBUTION SKYLINE -->
-<div align="center">
-
-### 🏙️ &nbsp;Contribution Skyline
-
-<a href="https://skyline.github.com/amdjedkh/2025">
-  <img src="https://img.shields.io/badge/🏙️_View_My_3D_Contribution_Skyline-00d4ff?style=for-the-badge&labelColor=0a192f" alt="GitHub Skyline" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amdjedkh&theme=github_dark" width="98%" alt="Contribution Graph" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amdjedkh&theme=github_dark&utcOffset=1" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amdjedkh&theme=github_dark" width="49%" />
-
-</div>
-
-<br/>
-
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
