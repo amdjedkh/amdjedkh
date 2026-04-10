@@ -12,15 +12,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
-        id: snake
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: amdjedkh
           outputs: |
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=00d4ff&color_dots=#0a192f,#112240,#1e3a5f,#00d4ff,#64ffda
+            github-snake-dark.svg?palette=github-dark&color_snake=00d4ff&color_dots=#0a192f,#112240,#1e3a5f,#00d4ff,#64ffda
 
-      - name: Push to output branch
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: output
-          folder: dist
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-snake-dark.svg
+          git diff --cached --quiet || git commit -m "Update snake animation"
+          git push
