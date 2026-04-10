@@ -123,23 +123,43 @@ motto: "Decode complexity. Engineer intelligence."
 <!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<!-- SKILL SPEEDOMETERS -->
-## 🎯 &nbsp;Skill Proficiency
+<!-- LIVE METRICS -->
+## 🎯 &nbsp;Live Metrics
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><img src="./gauges/gauge_1.svg" alt="AI" /></td>
-<td align="center"><img src="./gauges/gauge_2.svg" alt="Algorithms" /></td>
-<td align="center"><img src="./gauges/gauge_3.svg" alt="ML" /></td>
-</tr>
-<tr>
-<td align="center"><img src="./gauges/gauge_4.svg" alt="Research" /></td>
-<td align="center"><img src="./gauges/gauge_5.svg" alt="Python" /></td>
-<td align="center"><img src="./gauges/gauge_6.svg" alt="Data Science" /></td>
-</tr>
-</table>
+<!-- KAGGLE BADGES -->
+### 🏅 &nbsp;Kaggle
+
+<a href="https://kaggle.com/ajworks">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/ajworks" alt="Kaggle Stats" />
+</a>
+
+<br/>
+
+![Competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ajworks/competition/dark)
+![Dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ajworks/dataset/dark)
+![Notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ajworks/notebook/dark)
+![Discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ajworks/discussion/dark)
+
+<br/><br/>
+
+<!-- WAKATIME -->
+### ⏱️ &nbsp;Coding Activity
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amdjedkh&theme=transparent&title_color=00d4ff&text_color=e6f1ff&icon_color=64ffda&border_color=1e3a5f&bg_color=0a192f&hide_border=false&layout=compact&custom_title=⏱️%20Weekly%20Coding%20Activity&langs_count=6" width="55%" />
+
+<br/><br/>
+
+<!-- GITHUB SUMMARY CARDS -->
+### 📈 &nbsp;GitHub Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amdjedkh&theme=github_dark" width="98%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amdjedkh&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amdjedkh&theme=github_dark&utcOffset=1" width="49%" />
 
 </div>
 
