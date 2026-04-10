@@ -5,8 +5,10 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%94%AC+Exploring+the+frontiers+of+AI;%F0%9F%A7%A0+Algorithms+%7C+Intelligent+Systems+%7C+Research;%F0%9F%9A%80+Turning+ideas+into+intelligent+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%94%AC+Exploring+the+frontiers+of+AI;%F0%9F%A7%A0+Algorithms+%26+Intelligent+Systems;%F0%9F%9A%80+Research+%26+Innovation" alt="Typing SVG" />
 </a>
+
+
 
 <!-- PROFILE COUNTERS — neon pill style -->
 <br/>
@@ -128,19 +130,24 @@ motto: "Decode complexity. Engineer intelligence."
 
 <div align="center">
 
-<!-- KAGGLE BADGES -->
+<!-- KAGGLE -->
 ### 🏅 &nbsp;Kaggle
 
 <a href="https://kaggle.com/ajworks">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/ajworks" alt="Kaggle Stats" />
+  <img src="https://img.shields.io/badge/Kaggle-ajworks-00d4ff?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0a192f" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ajworks/competition/dark)
-![Dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ajworks/dataset/dark)
-![Notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ajworks/notebook/dark)
-![Discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ajworks/discussion/dark)
+<a href="https://kaggle.com/ajworks">
+  <img src="https://www.kaggle.com/static/images/tiers/contributor.svg" width="60" alt="Kaggle Tier" />
+</a>
+
+<br/><br/>
+
+![Notebooks](https://img.shields.io/badge/📓_Notebooks-Kaggle-00d4ff?style=flat-square&labelColor=0a192f)
+![Datasets](https://img.shields.io/badge/📊_Datasets-Kaggle-64ffda?style=flat-square&labelColor=0a192f)
+![Discussions](https://img.shields.io/badge/💬_Discussions-Kaggle-1e90ff?style=flat-square&labelColor=0a192f)
 
 <br/><br/>
 
