@@ -8,16 +8,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%94%AC+Exploring+the+frontiers+of+AI;%F0%9F%A7%A0+Algorithms+%7C+Intelligent+Systems+%7C+Research;%F0%9F%9A%80+Turning+ideas+into+intelligent+solutions" alt="Typing SVG" />
 </a>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
+<!-- PROFILE COUNTERS — neon pill style -->
 <br/>
-<img src="https://komarev.com/ghpvc/?username=amdjedkh&style=for-the-badge&color=0a192f&label=PROFILE+VIEWS" alt="Profile views" />
-&nbsp;
+
+<img src="https://komarev.com/ghpvc/?username=amdjedkh&style=for-the-badge&color=00d4ff&label=👁️+VISITORS" alt="Profile views" />
+&nbsp;&nbsp;
 <a href="https://github.com/amdjedkh?tab=followers">
-  <img src="https://img.shields.io/github/followers/amdjedkh?style=for-the-badge&color=0a192f&labelColor=1e3a5f&label=Followers&logo=github&logoColor=64ffda" alt="Followers" />
+  <img src="https://custom-icon-badges.demolab.com/github/followers/amdjedkh?style=for-the-badge&logo=people&logoColor=white&color=0a192f&labelColor=00d4ff&label=FOLLOWERS" alt="Followers" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/amdjedkh?tab=repositories">
-  <img src="https://img.shields.io/github/stars/amdjedkh?style=for-the-badge&color=0a192f&labelColor=1e3a5f&label=Total+Stars&logo=github&logoColor=64ffda" alt="Stars" />
+  <img src="https://custom-icon-badges.demolab.com/github/stars/amdjedkh?style=for-the-badge&logo=star&logoColor=white&color=0a192f&labelColor=64ffda&label=STARS" alt="Stars" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/amdjedkh?tab=repositories">
+  <img src="https://custom-icon-badges.demolab.com/badge/REPOS-amdjedkh-0a192f?style=for-the-badge&logo=repo&logoColor=white&labelColor=1e90ff" alt="Repos" />
 </a>
 
 </div>
@@ -54,30 +59,34 @@ motto: "Decode complexity. Engineer intelligence."
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 <!-- TECH STACK -->
-## 🛠️ &nbsp;Tech Stack & Expertise
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack & Expertise
 
 <div align="center">
 
 ### 🧠 &nbsp;Core Domains
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-0a192f?style=for-the-badge&logo=openai&logoColor=64ffda)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0a192f?style=for-the-badge&logo=tensorflow&logoColor=64ffda)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-0a192f?style=for-the-badge&logo=pytorch&logoColor=64ffda)
-![Algorithms](https://img.shields.io/badge/Algorithms-0a192f?style=for-the-badge&logo=thealgorithms&logoColor=64ffda)
-![Data Science](https://img.shields.io/badge/Data_Science-0a192f?style=for-the-badge&logo=pandas&logoColor=64ffda)
 
-### 💻 &nbsp;Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-1e3a5f?style=for-the-badge&logo=python&logoColor=00d4ff)
-![C](https://img.shields.io/badge/C-1e3a5f?style=for-the-badge&logo=c&logoColor=00d4ff)
-![Java](https://img.shields.io/badge/Java-1e3a5f?style=for-the-badge&logo=openjdk&logoColor=00d4ff)
-![SQL](https://img.shields.io/badge/SQL-1e3a5f?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
-![LaTeX](https://img.shields.io/badge/LaTeX-1e3a5f?style=for-the-badge&logo=latex&logoColor=00d4ff)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,anaconda&theme=dark" alt="Core" />
+
+<br/><br/>
+
+### 💻 &nbsp;Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,java,postgres,latex&theme=dark" alt="Languages" />
+
+<br/><br/>
 
 ### 🔧 &nbsp;Tools & Platforms
-![Git](https://img.shields.io/badge/Git-0d2137?style=for-the-badge&logo=git&logoColor=64ffda)
-![Linux](https://img.shields.io/badge/Linux-0d2137?style=for-the-badge&logo=linux&logoColor=64ffda)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d2137?style=for-the-badge&logo=jupyter&logoColor=64ffda)
-![VS Code](https://img.shields.io/badge/VS_Code-0d2137?style=for-the-badge&logo=visualstudiocode&logoColor=64ffda)
-![Google Colab](https://img.shields.io/badge/Google_Colab-0d2137?style=for-the-badge&logo=googlecolab&logoColor=64ffda)
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker&theme=dark" alt="Tools" />
+
+<br/><br/>
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-00d4ff?style=for-the-badge&logo=openai&logoColor=0a192f)
+![ML](https://img.shields.io/badge/Machine_Learning-64ffda?style=for-the-badge&logo=tensorflow&logoColor=0a192f)
+![Algorithms](https://img.shields.io/badge/Algorithms-1e90ff?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-00d4ff?style=for-the-badge&logo=pytorch&logoColor=0a192f)
+![Data Science](https://img.shields.io/badge/Data_Science-64ffda?style=for-the-badge&logo=pandas&logoColor=0a192f)
+![Research](https://img.shields.io/badge/Research-1e90ff?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 </div>
 
@@ -138,9 +147,9 @@ motto: "Decode complexity. Engineer intelligence."
 
 <div align="center">
 
-![Studying](https://img.shields.io/badge/📚_Studying-Master's_in_AI-0a192f?style=for-the-badge&labelColor=1e3a5f)
-![Researching](https://img.shields.io/badge/🔬_Researching-Intelligent_Systems-0a192f?style=for-the-badge&labelColor=1e3a5f)
-![Solving](https://img.shields.io/badge/🧩_Solving-Algorithmic_Challenges-0a192f?style=for-the-badge&labelColor=1e3a5f)
+![Studying](https://img.shields.io/badge/📚_Studying-Master's_in_AI-00d4ff?style=for-the-badge&labelColor=0a192f)
+![Researching](https://img.shields.io/badge/🔬_Researching-Intelligent_Systems-64ffda?style=for-the-badge&labelColor=0a192f)
+![Solving](https://img.shields.io/badge/🧩_Solving-Algorithmic_Challenges-1e90ff?style=for-the-badge&labelColor=0a192f)
 
 </div>
 
@@ -156,19 +165,23 @@ motto: "Decode complexity. Engineer intelligence."
 <div align="center">
 
 <a href="mailto:contact@amdjedkhelifi.com">
-  <img src="https://img.shields.io/badge/Email-contact@amdjedkhelifi.com-0a192f?style=for-the-badge&logo=gmail&logoColor=64ffda&labelColor=1e3a5f" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Email-contact@amdjedkhelifi.com-0a192f?style=for-the-badge&logo=mail&logoColor=00d4ff&labelColor=112240" />
 </a>
-&nbsp;
+<br/><br/>
 <a href="https://linkedin.com/in/amdjed-khelifi">
-  <img src="https://img.shields.io/badge/LinkedIn-Amdjed_Khelifi-0a192f?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=1e3a5f" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=00d4ff&color=0a192f&labelColor=112240" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://amdjedkhelifi.com">
-  <img src="https://img.shields.io/badge/Portfolio-amdjedkhelifi.com-0a192f?style=for-the-badge&logo=googlechrome&logoColor=64ffda&labelColor=1e3a5f" />
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=64ffda&color=0a192f&labelColor=112240" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
+<a href="https://github.com/amdjedkh">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=00d4ff&color=0a192f&labelColor=112240" />
+</a>
+&nbsp;&nbsp;
 <a href="https://drive.google.com/file/d/13ejprfnKSdRg91t9JiJhHGX8-zm5YEdv/view?usp=sharing">
-  <img src="https://img.shields.io/badge/📄_CV-Download-0a192f?style=for-the-badge&labelColor=1e3a5f" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CV-Download-0a192f?style=for-the-badge&logo=download&logoColor=64ffda&labelColor=112240" />
 </a>
 
 </div>
@@ -184,7 +197,7 @@ motto: "Decode complexity. Engineer intelligence."
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amdjedkh/amdjedkh/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/amdjedkh/amdjedkh/main/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- FOOTER WAVE -->
