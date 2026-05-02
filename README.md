@@ -230,5 +230,5 @@ motto: "Decode complexity. Engineer intelligence."
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1e3a5f,100:00d4ff&height=120&section=footer" />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made_with-💙_&_AI-0a192f?style=flat-square&labelColor=1e3a5f" />
+
 </div>
